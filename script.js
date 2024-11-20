@@ -1,4 +1,4 @@
-const euroDate = "11 Jun 2021";
+const euroDate = "9 Jun 2028";
 const daysEl = document.getElementById('days');
 const hoursEl = document.getElementById('hours');
 const minuntesEl = document.getElementById('minutes'); 
